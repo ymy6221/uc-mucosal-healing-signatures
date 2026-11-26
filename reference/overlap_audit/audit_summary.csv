@@ -1,0 +1,12 @@
+metric,value
+"ACT1 distinct subjects matched across the two series",22
+"ACT1 included subjects with identical profiles at all shared probes",22
+"ACT1 probe sets compared",54675
+"ACT1 matched subjects with discordant endpoint labels",5
+"GSE23597 extra baseline records for subjects represented twice",1
+"GSE14580 discovery GSMs reused by GSE16879",24
+"Leuven cross-platform IFX baseline comparisons",552
+"Leuven shared baseline genes",17076
+"Leuven stable reciprocal pairs at baseline",17
+"Leuven stable reciprocal pairs at weeks 4-6",18
+"Leuven stable reciprocal pairs at both visits",14

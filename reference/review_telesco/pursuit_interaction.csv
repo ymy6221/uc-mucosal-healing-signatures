@@ -1,0 +1,2 @@
+signature_id,cohort,term,log_or,se,or,ci_low,ci_high,p_value,n,convergence_warning
+GLM_MPS_13,GSE92415,treatmentgolimumab:score_z,0.548091305834459,0.493450515619992,1.72994792315568,0.657657036423491,4.55057826660816,0.266683699690607,87,FALSE

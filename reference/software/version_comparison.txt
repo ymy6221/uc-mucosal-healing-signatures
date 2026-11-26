@@ -1,0 +1,26 @@
+Audit date 2026-11-26
+Historical R session R version 4.6.1 (2026-06-24)
+Current R session R version 4.6.1 (2026-06-24)
+
+      package version current identical_version
+            R   4.6.1   4.6.1              TRUE
+   data.table  1.18.4  1.18.4              TRUE
+         GSVA   2.6.6   2.6.6              TRUE
+ BiocParallel  1.46.0  1.46.0              TRUE
+      msigdbr  26.1.0  26.1.0              TRUE
+       Seurat   5.5.1   5.5.1              TRUE
+ SeuratObject   5.4.0   5.4.0              TRUE
+       Matrix   1.7.5   1.7.5              TRUE
+      ggplot2   4.0.3   4.0.3              TRUE
+    patchwork   1.3.2   1.3.2              TRUE
+      ggrepel   0.9.8   0.9.8              TRUE
+       digest  0.6.39  0.6.39              TRUE
+
+Historical database_version 2026.1.Hs
+Current db_version 2026.1.Hs
+Pathways 12
+Historical unique pathway/gene/version rows 2166
+Current unique pathway/gene/version rows 2166
+Exact equality of all pathway/gene/version rows after sorting TRUE
+Registry SHA-256 b35f4806af3fa50939bd43281ceef73da598c10365b2c90fa5471360938bccae
+Registry matches original study file SHA-256 TRUE

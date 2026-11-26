@@ -1,0 +1,12 @@
+arm,treatment,key,baseline_arrays,unique_key
+"GSE12251","infliximab","patient_id",22,22
+"GSE23597","infliximab","subject:ch1",32,31
+"GSE23597","placebo","subject:ch1",13,13
+"GSE16879","infliximab","title",24,24
+"GSE73661_IFX","infliximab","patient_id",23,23
+"GSE73661_VDZ","vedolizumab","patient_id",41,41
+"GSE206285","ustekinumab","donor id:ch1",358,358
+"GSE206285","placebo","donor id:ch1",184,184
+"GSE92415","golimumab","subject:ch1",59,59
+"GSE92415","placebo","subject:ch1",28,28
+"GSE72819","etrolizumab","title",70,70

@@ -1,0 +1,11 @@
+trial,treatment,missing_pattern,n
+UNIFI,ustekinumab,complete,330
+UNIFI,placebo,complete,169
+UNIFI,ustekinumab,log_calprotectin,24
+UNIFI,ustekinumab,log_crp,4
+UNIFI,placebo,log_calprotectin,14
+UNIFI,placebo,log_crp,1
+PURSUIT-SC,golimumab,complete,59
+PURSUIT-SC,placebo,complete,28
+ACT-1,infliximab,complete,31
+ACT-1,placebo,complete,13

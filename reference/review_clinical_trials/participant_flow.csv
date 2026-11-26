@@ -1,0 +1,7 @@
+trial,treatment,eligible_n,complete_n,excluded_n,failures_eligible,failures_complete
+UNIFI,ustekinumab,358,330,28,302,281
+UNIFI,placebo,184,169,15,157,144
+PURSUIT-SC,golimumab,59,59,0,27,27
+PURSUIT-SC,placebo,28,28,0,17,17
+ACT-1,infliximab,31,31,0,7,7
+ACT-1,placebo,13,13,0,8,8
