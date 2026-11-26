@@ -1,0 +1,34 @@
+module,gene,direction,rationale
+injury,KRT17,1,wound-associated epithelium
+injury,KRT6A,1,wound-associated epithelium
+injury,KRT6B,1,wound-associated epithelium
+injury,CLDN1,1,regenerative epithelial state
+injury,TACSTD2,1,regenerative epithelial state
+injury,ANXA1,1,revival-like repair state
+injury,SERPINB5,1,injury-associated epithelium
+injury,LGALS3,1,regenerative epithelial state
+injury,REG1A,1,inflamed regenerative epithelium
+injury,REG1B,1,inflamed regenerative epithelium
+injury,REG3A,1,inflamed regenerative epithelium
+injury,MMP7,1,epithelial remodeling
+injury,DUOX2,1,cytokine-stimulated epithelium
+injury,DUOXA2,1,cytokine-stimulated epithelium
+injury,NOS2,1,cytokine-stimulated epithelium
+injury,IFITM1,1,epithelial interferon stress
+mature,BEST4,-1,mature absorptive colonocyte
+mature,OTOP2,-1,mature absorptive colonocyte
+mature,GUCA2A,-1,mature epithelial function
+mature,GUCA2B,-1,mature epithelial function
+mature,CA1,-1,mature absorptive colonocyte
+mature,CA2,-1,mature absorptive colonocyte
+mature,AQP8,-1,mature epithelial transport
+mature,SLC26A2,-1,mature epithelial transport
+mature,KRT20,-1,epithelial differentiation
+mature,CEACAM7,-1,mature colonocyte
+mature,SLC4A4,-1,mature epithelial transport
+mature,CA7,-1,mature colonocyte
+mature,HEPACAM2,-1,mature epithelial identity
+mature,DHRS11,-1,mature absorptive colonocyte
+mature,DHRS9,-1,mature epithelial metabolism
+mature,FABP1,-1,mature absorptive metabolism
+

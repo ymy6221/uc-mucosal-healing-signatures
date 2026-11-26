@@ -1,0 +1,13 @@
+filename,url,verified_bytes,sha256,verified_date
+GSE206285_series_matrix.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE206nnn/GSE206285/matrix/GSE206285_series_matrix.txt.gz,80780481,a1d11a5234712e813f5c4f1eb3bdb6695f5c99283610f7ee31ad7552bd3b3f82,2026-08-27
+GSE92415_series_matrix.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE92nnn/GSE92415/matrix/GSE92415_series_matrix.txt.gz,27037708,61cd218f97a47c94902fc4094284424041203f7c809447bf45aae321749c8bf1,2026-08-27
+GSE16879_series_matrix.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE16nnn/GSE16879/matrix/GSE16879_series_matrix.txt.gz,13614374,8874d0d40217c3b92c44cead29bf15a0b157e45f62825c95b3c5183c0f513602,2026-08-27
+GSE12251_series_matrix.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE12nnn/GSE12251/matrix/GSE12251_series_matrix.txt.gz,6618978,2c750c3504fa500a1a1d0da382eb82e1fb4e09f645e370cbb247b66a19ffc367,2026-08-27
+GSE73661_series_matrix.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE73nnn/GSE73661/matrix/GSE73661_series_matrix.txt.gz,32063527,3e988a71e35c69bfdc3dcaabb96554acf9e644d4ab7140ed770a958b2185437d,2026-08-27
+GPL13158.annot.gz,https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL13nnn/GPL13158/annot/GPL13158.annot.gz,8313277,d9eddd653c200c9ac1b282b441079a19e890914929b35792a4e99ce4eba3b0d0,2026-08-27
+GPL570.annot.gz,https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPLnnn/GPL570/annot/GPL570.annot.gz,8471521,d7cd44352127b1e34f3a720ebea86093ef255a38f1612a85a2962b71bde8f394,2026-08-27
+GPL6244.annot.gz,https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL6nnn/GPL6244/annot/GPL6244.annot.gz,7193437,99ee70f87e02c75ff1c8dc57b6c40c0482c7ef2760e004301315ac34344ac6dc,2026-08-27
+GSE206285_additional_sample_metadata.tsv.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE206nnn/GSE206285/suppl/GSE206285_additional_sample_metadata.tsv.gz,8447,3b4ef2e061af0338e4e9194bd2652e91356bc2768056157f7dc529c23d8c8649,2026-08-27
+GSE23597_series_matrix.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE23nnn/GSE23597/matrix/GSE23597_series_matrix.txt.gz,31357273,d36fe4df1b6903c2be9de761a66deb92598cce84105d26be48e956ea5a26ce50,2026-08-27
+GSE72819_series_matrix.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE72nnn/GSE72819/matrix/GSE72819_series_matrix.txt.gz,7756,3205162e2a07bbe40aa3ca857a5fc2ab903a69a869036f85c8b8fa1f2a6656fb,2026-08-27
+GSE72819_RAW.tar,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE72nnn/GSE72819/suppl/GSE72819_RAW.tar,26071040,5582322d4c84847e0c594df5e485eee696d5de92a7a6842272c15a853304b74a,2026-08-27
